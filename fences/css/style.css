@@ -1,0 +1,12 @@
+body {
+    background-color:beige;
+}
+.navbar-brand{
+    font color: black
+}
+.paragraph{
+    width: 1450px;
+    border: 20px solid: green;
+    padding:5px;
+    margin:25px;
+}
